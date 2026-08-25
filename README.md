@@ -5,7 +5,7 @@
   <tr>
     <td width="70%" valign="top">
       
-# **HaloOo*, my name is Kartika Luna Amaliya* 👋
+# **HaloOo*, my name is Kartika Luna Amaliya*
 
 Seorang Software Engineering Student yang tertarik dengan Web Development & AI.
 
