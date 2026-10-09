@@ -7,20 +7,20 @@
       
 # **HaloOo*, my name is Kartika Luna Amaliya*
 
-Seorang Software Engineering Student yang tertarik dengan Web Development & AI.
+Seorang Software Engineering Student yang tertarik dengan Game Developtment & UI/UX Designer.
 
 ---
 
 ### 🚀 AboutMe
-- 🔭 Saat ini sedang fokus mempelajari: **Full-stack Web Development & Laravel**
+- 🔭 Saat ini sedang fokus mempelajari: **Full-stack Web Development, Blender, Laravel & Flutter**
 - 💼 Keahlian: **PHP, JavaScript, HTML/CSS, Python, SQL**
-- 🎨 Minat: **Web Design & UI Layouts**
+- 🎨 Minat: **Web Design, Game Developer & UI Layouts**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** PHP, JavaScript, Python, HTML, CSS, SQL
-- **Design & Presentation:** Canva
+- **Design & Presentation:** Canva, Figma, Blender
 
 ---
 
