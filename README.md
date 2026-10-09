@@ -13,7 +13,7 @@ Seorang Software Engineering Student yang tertarik dengan Game Developtment & UI
 
 ### 🚀 AboutMe
 - 🔭 Saat ini sedang fokus mempelajari: **Full-stack Web Development, Blender, Laravel & Flutter**
-- 💼 Keahlian: **PHP, JavaScript, HTML/CSS, Python, SQL**
+- 💼 Keahlian: **PHP, JavaScript, HTML/CSS, Python, SQL, Blender**
 - 🎨 Minat: **Web Design, Game Developer & UI Layouts**
 
 ---
